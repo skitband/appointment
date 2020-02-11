@@ -16,3 +16,7 @@ php artisan migrate
 ## seed
 composer dump-autoload
 php artisan db:seed
+
+## login admin
+email: admin@sample.com
+password: admin
